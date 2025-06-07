@@ -4,3 +4,6 @@
 2. Galliard
 3. Jonkler
 4. Doomsday
+
+# Notas:
+
