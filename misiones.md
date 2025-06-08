@@ -1,9 +1,8 @@
 # Misiones
 
-1. Dar mimitos a Wendy.
-2. Sacar a Daisy.
-3. Dar de comer a ambas porque las quiero mucho y porque misi no come mucho.
-4. Querer a Daisy
+1. Sacar a Daisy.
+2. Dar de comer a ambas porque las quiero mucho y porque misi no come mucho.
+3. Querer a Daisy
 
 # Misiones especiales
 
