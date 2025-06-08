@@ -1,4 +1,4 @@
-# Objetivos
+# Misiones generales
 
 1. Dar mimitos a Wendy.
 2. Sacar a Daisy.
