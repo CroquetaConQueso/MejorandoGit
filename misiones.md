@@ -1,4 +1,4 @@
-# Misiones
+# Objetivos
 
 1. Dar mimitos a Wendy.
 2. Sacar a Daisy.
@@ -9,3 +9,4 @@
 
 1. Terminar de ver los cursos de Git este finde.
 2. Comprar en el Mercadona
+3. Lupita
