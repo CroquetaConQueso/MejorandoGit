@@ -1,4 +1,4 @@
-# Misiones generales
+# Misiones
 
 1. Dar mimitos a Wendy.
 2. Sacar a Daisy.
